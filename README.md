@@ -1,8 +1,8 @@
 # Amazon-data-walkthrough
 
-1.Data scapling from webpages.
+1.Scrap data from webpages.
 
-2.explore and transform data.
+2.Explore and transform data.
 
-3.apply machine learning: logistic regression.
+3.Apply machine learning: logistic regression.
 
