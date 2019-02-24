@@ -1,6 +1,6 @@
 # Amazon-data-walkthrough
 
-1.Scrap data from webpages.
+1.Scrape data from webpages.
 
 2.Explore and transform data.
 
